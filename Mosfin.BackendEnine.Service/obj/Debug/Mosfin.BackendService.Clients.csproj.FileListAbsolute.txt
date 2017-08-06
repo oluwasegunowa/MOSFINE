@@ -34,5 +34,5 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/obj/Debug/Mosfin.BackendEnine.Service.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/obj/Debug/Mosfin.BackendEnine.Service.dll.mdb
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/bin/Debug/Mosfin.DataObjects.dll.mdb
-/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/bin/Debug/obj/Debug/Mosfin.BackendEnine.Service.dll.mdb
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/bin/Debug/Mosfin.Clients.Utils.dll.mdb
+/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/bin/Debug/obj/Debug/Mosfin.BackendEnine.Service.dll.mdb
