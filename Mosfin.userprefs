@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{A9A67AE7-8B89-42C4-B1AE-2C17A37D7F8D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Mosfin/Screens/LandingPageActivity.cs">
     <Files>
-      <File FileName="Mosfin/Screens/LandingPageActivity.cs" Line="73" Column="7" />
-      <File FileName="Mosfin/Resources/values/Styles.xml" Line="1" Column="7" />
+      <File FileName="Mosfin/Screens/LandingPageActivity.cs" Line="64" Column="21" />
+      <File FileName="Mosfin/Resources/values/Styles.xml" Line="22" Column="6" />
       <File FileName="Mosfin/BaseUtil/Storage/SecureStorageutil.cs" Line="7" Column="19" />
       <File FileName="Mosfin/Mosfin.Droid.csproj" Line="1" Column="1" />
       <File FileName="Mosfin/MainApplication.cs" Line="8" Column="14" />
+      <File FileName="Mosfin/Screens/LoginActivity.cs" Line="22" Column="16" />
+      <File FileName="Mosfin/Screens/SignUpActivity.cs" Line="21" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
