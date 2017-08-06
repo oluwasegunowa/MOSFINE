@@ -1,5 +1,4 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Mosfin.Clients.Utils.dll
-/Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Mosfin.Clients.Utils.dll.mdb
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Flurl.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Flurl.Http.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
@@ -30,3 +29,5 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/obj/Debug/Mosfin.Clients.Utils.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/obj/Debug/Mosfin.Clients.Utils.dll.mdb
+/Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/obj/Debug/Mosfin.Clients.Utils.csprojResolveAssemblyReference.cache
+/Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/bin/Debug/Mosfin.Clients.Utils.dll.mdb

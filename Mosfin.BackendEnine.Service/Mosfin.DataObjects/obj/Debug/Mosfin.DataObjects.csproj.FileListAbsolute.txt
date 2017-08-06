@@ -1,6 +1,5 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.DataObjects.dll.config
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.DataObjects.dll
-/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.DataObjects.dll.mdb
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.Clients.Utils.dll
@@ -15,7 +14,6 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Validation.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/PCLStorage.Abstractions.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/PCLStorage.dll
-/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.Clients.Utils.dll.mdb
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Newtonsoft.Json.xml
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/System.Net.Http.Extensions.xml
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/System.Net.Http.Primitives.xml
@@ -33,3 +31,5 @@
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/obj/Debug/Mosfin.DataObjects.csprojResolveAssemblyReference.cache
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/obj/Debug/Mosfin.DataObjects.dll
 /Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/obj/Debug/Mosfin.DataObjects.dll.mdb
+/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.DataObjects.dll.mdb
+/Users/digitallabmacone/Projects/Mosfin/Mosfin.BackendEnine.Service/Mosfin.DataObjects/bin/Debug/Mosfin.Clients.Utils.dll.mdb

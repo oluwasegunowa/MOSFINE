@@ -1,13 +1,7 @@
 ﻿<Properties StartupConfiguration="{A9A67AE7-8B89-42C4-B1AE-2C17A37D7F8D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mosfin/Screens/LandingPageActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mosfin/Mosfin.IOS/BaseUtil/Storage/SecureStorageutil.cs">
     <Files>
-      <File FileName="Mosfin/Screens/LandingPageActivity.cs" Line="64" Column="21" />
-      <File FileName="Mosfin/Resources/values/Styles.xml" Line="22" Column="6" />
-      <File FileName="Mosfin/BaseUtil/Storage/SecureStorageutil.cs" Line="7" Column="19" />
-      <File FileName="Mosfin/Mosfin.Droid.csproj" Line="1" Column="1" />
-      <File FileName="Mosfin/MainApplication.cs" Line="8" Column="14" />
-      <File FileName="Mosfin/Screens/LoginActivity.cs" Line="22" Column="16" />
-      <File FileName="Mosfin/Screens/SignUpActivity.cs" Line="21" Column="21" />
+      <File FileName="Mosfin/Mosfin.IOS/BaseUtil/Storage/SecureStorageutil.cs" Line="16" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,14 +10,11 @@
             <Node name="Backend" expanded="True" />
             <Node name="Shared" expanded="True" />
             <Node name="Targets" expanded="True">
-              <Node name="Mosfin.Droid" expanded="True">
-                <Node name="Screens" expanded="True">
-                  <Node name="LandingPageActivity.cs" selected="True" />
-                </Node>
-              </Node>
               <Node name="Mosfin.IOS" expanded="True">
                 <Node name="BaseUtil" expanded="True">
-                  <Node name="Storage" expanded="True" />
+                  <Node name="Storage" expanded="True">
+                    <Node name="SecureStorageutil.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
@@ -37,12 +28,17 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin.Clients.Common/Mosfin.Clients.Utils/Utils/MosfinRestClient.cs" relfile="Mosfin.Clients.Common/Mosfin.Clients.Utils/Utils/MosfinRestClient.cs" line="55" column="1" />
+      <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin/Screens/LandingPageActivity.cs" relfile="Mosfin/Screens/LandingPageActivity.cs" line="113" column="1" />
+      <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin/Screens/LandingPageActivity.cs" relfile="Mosfin/Screens/LandingPageActivity.cs" line="99" column="1" />
+      <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin/Screens/LandingPageActivity.cs" relfile="Mosfin/Screens/LandingPageActivity.cs" line="122" column="1" />
+      <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin/Screens/LandingPageActivity.cs" relfile="Mosfin/Screens/LandingPageActivity.cs" line="132" column="1" />
+      <Breakpoint file="/Users/digitallabmacone/Projects/Mosfin/Mosfin/Screens/LandingPageActivity.cs" relfile="Mosfin/Screens/LandingPageActivity.cs" line="223" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../DigitalApp/Alat.Clients.Common/Services/BaseService.cs" line="22" offsetX="325" offsetY="231" expression="ex.Call.RequestBody" liveUpdate="False" />
     <Watch file="../DigitalApp/Alat.Droid/Screens/AccountMaintenance/Cards/CardsViewPagerFragment.cs" line="66" offsetX="385" offsetY="715" expression="textView.Visibility" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.Targets.Mosfin.Droid PreferredExecutionTarget="Android.3312a01e" />
+  <MonoDevelop.Ide.ItemProperties.Targets.Mosfin.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.3312a01e" AndroidDesignerPreferredTheme="MosfinTheme" />
   <MultiItemStartupConfigurations />
 </Properties>
